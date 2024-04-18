@@ -20,7 +20,7 @@
       "nama": "Sate Ayam",
       "harga": 16000,
       "is_ready": true,
-      "gambar": "sate-ayam.jpg",
+      "gambar": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/07/14053934/Mudah-Dibuat-di-Rumah-Ini-Resep-Sate-Ayam-Bumbu-Kacang-yang-Lezat-.jpg",
       "category": {
         "id": 1,
         "nama": "Makanan"
@@ -32,7 +32,7 @@
       "nama": "Nasi Goreng Telur",
       "harga": 14000,
       "is_ready": true,
-      "gambar": "nasi-goreng-telor.jpg",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/gR5TdMNr8514lDLwgPS7qkf_C38=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2393845/original/056738600_1540628006-HL.jpg",
       "category": {
         "id": 1,
         "nama": "Makanan"
@@ -44,7 +44,7 @@
       "nama": "Nasi Rames",
       "harga": 12000,
       "is_ready": true,
-      "gambar": "nasi-rames.jpg",
+      "gambar": "https://img-global.cpcdn.com/recipes/5e9571c2b6870b01/680x482cq70/isi-piringku-lunch-nasi-rames-nasi-campur-sederhana-foto-resep-utama.jpg",
       "category": {
         "id": 1,
         "nama": "Makanan"
@@ -56,7 +56,7 @@
       "nama": "Lontong Opor Ayam",
       "harga": 18000,
       "is_ready": true,
-      "gambar": "lontong-opor-ayam.jpg",
+      "gambar": "https://images.tokopedia.net/img/JFrBQq/2024/3/18/b54ae774-6efb-4d51-9e73-169067d48d21.jpg",
       "category": {
         "id": 1,
         "nama": "Makanan"
@@ -68,7 +68,7 @@
       "nama": "Mie Goreng",
       "harga": 13000,
       "is_ready": true,
-      "gambar": "mie-goreng.jpg",
+      "gambar": "https://allofresh.id/blog/wp-content/uploads/2023/09/cara-membuat-mie-goreng-4-1-scaled.jpg",
       "category": {
         "id": 1,
         "nama": "Makanan"
@@ -80,7 +80,7 @@
       "nama": "Bakso",
       "harga": 10000,
       "is_ready": true,
-      "gambar": "bakso.jpg",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/02RtaroW5kpQZWMxtHwT60iuQxI=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2029093/original/066661300_1521949447-Bakso.jpg",
       "category": {
         "id": 1,
         "nama": "Makanan"
@@ -92,7 +92,7 @@
       "nama": "Mie Ayam Bakso",
       "harga": 14000,
       "is_ready": true,
-      "gambar": "mie-ayam-bakso.jpg",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/02RtaroW5kpQZWMxtHwT60iuQxI=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2029093/original/066661300_1521949447-Bakso.jpg",
       "category": {
         "id": 1,
         "nama": "Makanan"
@@ -104,7 +104,7 @@
       "nama": "Pangsit 6 pcs",
       "harga": 5000,
       "is_ready": true,
-      "gambar": "pangsit.jpg",
+      "gambar": "https://cdn.idntimes.com/content-images/post/20201204/ling-151370cda40d1d4242f7e61175ce5632_600x400.jpg",
       "category": {
         "id": 3,
         "nama": "Cemilan"
@@ -116,7 +116,7 @@
       "nama": "Kentang Goreng",
       "harga": 5000,
       "is_ready": true,
-      "gambar": "kentang-goreng.jpg",
+      "gambar": "https://asset.kompas.com/crops/3_pP4G38V1ulz1HVZJuCZv0Cjy8=/0x2:880x588/750x500/data/photo/2022/09/14/632159cd811f2.jpg",
       "category": {
         "id": 3,
         "nama": "Cemilan"
@@ -128,7 +128,7 @@
       "nama": "Cheese Burger",
       "harga": 15000,
       "is_ready": true,
-      "gambar": "cheese-burger.jpg",
+      "gambar": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/master/pass/Smashburger-recipe-120219.jpg",
       "category": {
         "id": 3,
         "nama": "Cemilan"
@@ -140,7 +140,7 @@
       "nama": "Coffe Late",
       "harga": 15000,
       "is_ready": true,
-      "gambar": "coffe-late.jpg",
+      "gambar": "https://richcreme.com/wp-content/uploads/2022/07/latte.jpg",
       "category": {
         "id": 2,
         "nama": "Minuman"
@@ -152,7 +152,7 @@
       "nama": "Es Jeruk",
       "harga": 7000,
       "is_ready": true,
-      "gambar": "es-jeruk.jpg",
+      "gambar": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/03/09062214/X-Manfaat-Es-Jeruk-dan-Resep-untuk-Membuatnya.jpg",
       "category": {
         "id": 2,
         "nama": "Minuman"
@@ -164,7 +164,7 @@
       "nama": "Es Teh",
       "harga": 5000,
       "is_ready": true,
-      "gambar": "es-teh.jpg",
+      "gambar": "https://asset.kompas.com/crops/GRGOpdUcySMF4sTvMlSEpJpFcTM=/0x0:4939x3293/750x500/data/photo/2022/09/25/63300cfd403f0.jpg",
       "category": {
         "id": 2,
         "nama": "Minuman"
@@ -176,7 +176,7 @@
       "nama": "Teh Hangat",
       "harga": 3000,
       "is_ready": true,
-      "gambar": "teh-hangat.jpg",
+      "gambar": "https://cdn.antaranews.com/cache/1200x800/2017/10/20171007teh-untuk-buka-puasa.jpg",
       "category": {
         "id": 2,
         "nama": "Minuman"
@@ -193,7 +193,7 @@
         "nama": "Bakso",
         "harga": 10000,
         "is_ready": true,
-        "gambar": "bakso.jpg",
+        "gambar": "https://cdn0-production-images-kly.akamaized.net/02RtaroW5kpQZWMxtHwT60iuQxI=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2029093/original/066661300_1521949447-Bakso.jpg",
         "category": {
           "id": 1,
           "nama": "Makanan"
@@ -211,7 +211,7 @@
         "nama": "Mie Goreng",
         "harga": 13000,
         "is_ready": true,
-        "gambar": "mie-goreng.jpg",
+        "gambar": "https://allofresh.id/blog/wp-content/uploads/2023/09/cara-membuat-mie-goreng-4-1-scaled.jpg",
         "category": {
           "id": 1,
           "nama": "Makanan"
@@ -233,7 +233,7 @@
             "nama": "Sate Ayam",
             "harga": 16000,
             "is_ready": true,
-            "gambar": "sate-ayam.jpg",
+            "gambar": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/07/14053934/Mudah-Dibuat-di-Rumah-Ini-Resep-Sate-Ayam-Bumbu-Kacang-yang-Lezat-.jpg",
             "category": {
               "id": 1,
               "nama": "Makanan"
@@ -251,7 +251,7 @@
             "nama": "Nasi Goreng Telur",
             "harga": 14000,
             "is_ready": true,
-            "gambar": "nasi-goreng-telor.jpg",
+            "gambar": "https://cdn1-production-images-kly.akamaized.net/gR5TdMNr8514lDLwgPS7qkf_C38=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2393845/original/056738600_1540628006-HL.jpg",
             "category": {
               "id": 1,
               "nama": "Makanan"
